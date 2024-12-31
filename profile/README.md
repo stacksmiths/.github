@@ -12,4 +12,12 @@ Focused on creating robust and scalable **AWS CDK stacks** to streamline cloud i
 
 ---
 
+## 📊 Repository Stars Dashboard
+
+Discover our most popular repositories based on stars:
+
+[View the Repository Stars Dashboard](https://stacksmiths.github.io/)
+
+---
+
 ✨ *"Simplifying the cloud, one CDK stack at a time."* ✨
